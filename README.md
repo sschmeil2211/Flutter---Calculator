@@ -44,6 +44,7 @@ Feel free to explore and customize the code according to your needs.
 ## Technologies Used
 + Flutter
 + Provider Package
++ Dart
 
 ## Developers
 Sebastian Schmeil
